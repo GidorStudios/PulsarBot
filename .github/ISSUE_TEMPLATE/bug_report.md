@@ -23,3 +23,5 @@ If applicable, add screenshots to help explain your problem.
 
 **Additional context**
 Add any other context about the problem here.
+
+[ ] I checked that my issue is not already reported.
